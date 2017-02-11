@@ -48,6 +48,7 @@ fred.homePlanet = "Mars"
 
 Can you fix the class definition above so that it _does_ work?
 
+
 ### Question 3
 
 Take a look at this struct that represents an alien:
@@ -78,6 +79,7 @@ bilbo.homePlanet = "Saturn"
 
 Can you change the declaration of `bilbo` so that the above three lines of code _do_ work?
 
+
 ### Question 5
 
 Consider this bit of code that uses the `Giant` class:
@@ -90,6 +92,7 @@ jason.name = "Jason"
 
 What will the value of `edgar.name` be after those three lines of code are run? What will the value of `jason.name` be? Why?
 
+
 ### Question 6
 
 Given this bit of code that uses the `Alien` struct:
@@ -101,6 +104,7 @@ charlesFromJupiter.homePlanet = "Jupiter"
 ```
 
 What will the value of `charles.homePlanet` be after the above code run? What about the value of `charlesFromJupiter.homePlanet`? Why?
+
 
 ### Question 7
 
@@ -123,9 +127,11 @@ struct BankAccount {
 
 Does this code work? Why or why not?
 
+
 ### Question 8
 
 Can you fix the `BankAccount` struct so it _does_ work?
+
 
 ### Question 9
 
@@ -138,6 +144,7 @@ joeAccount.withdraw(50.0)
 ```
 
 What will the value of `joeAccount.balance` be after the above code runs? What about the value of `joeOtherAccount.balance`? Why?
+
 
 ### Question 10
 
